@@ -1,1 +1,1 @@
-my_dict = {"name": "gagan", "age": 18}
+my_dict = {"first_name": "gagan", "age": 18}
