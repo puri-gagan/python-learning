@@ -1,1 +1,1 @@
-print("heyllow I'm snake game, play me")
+print("hello I'm snake game, play me ")
