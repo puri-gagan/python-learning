@@ -1,0 +1,1 @@
+print("hello I'm snake game, play me ")
