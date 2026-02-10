@@ -10,3 +10,4 @@ for idx, food_item in enumerate(food_price.keys()):
         food_price[food_item] = food_price[food_item] + food_price[food_item] * 0.02
 
 print(food_price)
+print("this code works fine in my system")
